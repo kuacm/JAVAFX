@@ -11,7 +11,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
 
-public class Example extends Application {
+public class SimpleButton extends Application {
 	public static void main(String[] args) {
 		launch(args);
 	}
