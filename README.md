@@ -19,7 +19,7 @@
 
 
 ##Makerspace
-In Tech room 118, their tentative hours are 12-7 PM Monday-Friday. They have Arduino and Raspberry Pi kits, as well as 3D printers, Lego Mindtorms, and other neat tech stuff you can play with as well as people there to help you if you need to understand something. Use makerspaceinfo@kean.edu to get more information/E-mail them informing them you want to come. They have a **sesssion on 3D printing for students on Nov 11th, 3:15-4:30 PM**.
+In Tech room 118, their tentative hours are 12-7 PM Monday-Friday. They have Arduino and Raspberry Pi kits, as well as 3D printers, Lego Mindtorms, and other neat tech stuff you can play with as well as people there to help you if you need to understand something. Use makerspaceinfo@kean.edu to get more information/E-mail them informing them you want to come.
 
 If you have any questions, let me know. I hope this was helpful.
 
