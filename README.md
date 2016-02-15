@@ -1,21 +1,21 @@
 #Helpful Sites:
 ###Informative:
-- [stackoverflow](http://stackoverflow.com/)<sup>1</sup>
+- [stackoverflow](http://stackoverflow.com/)<sup>[1]</sup>
 - [Quora](https://www.quora.com/)
 
 ###Programming Challenges/Practice:
 - [CodinGame](https://www.codingame.com/) 
 - [CodeCombat](https://codecombat.com/)
 - [LeetCode](https://leetcode.com/)
-- [CodeEval](https://www.codeeval.com/)<sup>2</sup>
-- [TypeRacer](http://play.typeracer.com/)<sup>3</sup>
+- [CodeEval](https://www.codeeval.com/)<sup>[2]</sup>
+- [TypeRacer](http://play.typeracer.com/)<sup>[3]</sup>
 
 ###Tutorials:
 - [Code Avengers](https://www.codeavengers.com/)
-- [Codecademy](https://www.codecademy.com/)<sup>4</sup>
-- [Code School](https://www.codeschool.com/)<sup>5</sup>
+- [Codecademy](https://www.codecademy.com/)<sup>[4]</sup>
+- [Code School](https://www.codeschool.com/)<sup>[5]</sup>
 - [Coursera](https://www.coursera.org/)
-- [Udemy](https://www.udemy.com/)<sup>5</sup>
+- [Udemy](https://www.udemy.com/)<sup>[5]</sup>
 
 
 ##Makerspace
